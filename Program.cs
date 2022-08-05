@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, Marina!");
 
 // Семинар 1
 // Задача 1
@@ -30,7 +30,7 @@ if (num1 == sqrt)
     Console.Write("Первое число - квадрат второго числа");
 else
     Console.Write("Первое число - не квадрат второго числа");
-    
+
 
 
 
